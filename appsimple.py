@@ -10,7 +10,7 @@ import datetime
 
 start = "7.6856578,81.7231435"               # kky
 end = "7.6564174,81.7235608"                # armpy
-key = "trfh1a5GMXQlYVMqDWciEHZt70pTU2Tb"             # API Key
+key = "Your tom tom API key"             # API Key
  
 # Base URL
 base_url = "https://api.tomtom.com/routing/1/calculateRoute/"
